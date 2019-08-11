@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Swift Scan</string>
+    <string name="facebook_app_id">454403192081655</string>
+    <string name="fb_login_protocol_scheme">fb454403192081655</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign in</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="wrong_login_pass">Invalid login or password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="submit">Submit</string>
+    <string name="e_mail">E-mail</string>
+    <string name="fb_log_in">FB Log in</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
